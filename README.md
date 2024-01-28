@@ -2,7 +2,7 @@
 <br>
 >>This GitHub repository contains mainly two Java projects: a Drinks Shop Billing System and a Calendar application.
 
-# Drinks Shop Billing System
+## Drinks Shop Billing System
 
 >>The Drinks Shop Billing System is a straightforward Java program designed to calculate the final bill for a customer's drink purchases.<br>
 >>It provides a user-friendly interface for handling billing transactions related to beverage orders.
