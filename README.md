@@ -20,5 +20,5 @@ This Java application is a simple calendar tool that allows users to view the ca
 - **Delete Events**: Remove events by name and year.
 - **Recurring Events**: Predefined recurring events for common holidays and observances.
 ## Usage
-->Upon running the program, users are presented with a menu to perform various actions related to the calendar and events.
+->Upon running the program, users are presented with a menu to perform various actions related to the calendar and events.<br>
 ->Users can interactively choose options to view the calendar, add events, and manage them.
